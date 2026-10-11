@@ -74,4 +74,4 @@ des véhicules demande une tolérance différente.
 
 ## Licence
 
-Ajoute le fichier de licence de ton choix (MIT recommandé pour un projet open source).
+Apache License Version 2.0, January 2004
